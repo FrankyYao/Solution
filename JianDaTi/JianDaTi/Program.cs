@@ -11,8 +11,8 @@ namespace JianDaTi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LongestSubString("abcdbda"));
-            //Console.Read();
+            Console.WriteLine(LongestSubString("abbsdff"));
+            Console.Read();
         }
 
         public static int LongestSubString(string s)
