@@ -1,0 +1,6 @@
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\bin\Debug\JianDaTi.exe.config
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\bin\Debug\JianDaTi.exe
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\bin\Debug\JianDaTi.pdb
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\obj\Debug\JianDaTi.csprojResolveAssemblyReference.cache
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\obj\Debug\JianDaTi.exe
+C:\Users\Yao\Solution\JianDaTi\JianDaTi\obj\Debug\JianDaTi.pdb
