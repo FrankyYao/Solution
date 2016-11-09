@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JianDaTi
 {
@@ -11,8 +8,8 @@ namespace JianDaTi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LongestSubString("abbsdff"));
-            Console.Read();
+            Console.WriteLine(LongestSubString("@#@"));
+            //Console.Read();
         }
 
         public static int LongestSubString(string s)
